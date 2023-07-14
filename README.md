@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-    <img  src="https://avatars.githubusercontent.com/u/71306738?v=4"  width="200" />
+    <img  src="https://github.com/0xumarkhatab/myGasOptimizationWork/assets/71306738/32bfb132-ed5e-4ad6-88d5-47fe20ff5f03"  height="200" />
 </p>
 <h1 align="center">My Gas Optimization Work</h1>
 <h2 align="center">Curated list of my gas optimization findings</h2>
